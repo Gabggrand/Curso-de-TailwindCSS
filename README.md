@@ -1,7 +1,7 @@
 # Tela de Login - Clone de Interface
-Este projeto é uma reprodução da tela de login do Instagram, desenvolvida com foco exclusivo em HTML semântico e Tailwind CSS para estilização.
+Este projeto foi desenvolvido como parte de um curso de front-end, com o objetivo de praticar a criação de interfaces modernas utilizando apenas HTML5 e Tailwind CSS.
 
-O objetivo principal foi praticar a criação de layouts modernos e responsivos, explorando a flexibilidade do Tailwind para montar uma interface fiel ao original, sem o uso de JavaScript ou frameworks.
+A proposta era reproduzir visualmente a tela de login do Instagram, explorando a estrutura semântica e a estilização responsiva com Tailwind, sem a adição de scripts ou funcionalidades dinâmicas.
 
 ## Tecnologias utilizadas
 - HTML5
@@ -9,11 +9,13 @@ O objetivo principal foi praticar a criação de layouts modernos e responsivos,
 - Tailwind CSS
 
 ## Objetivos do projeto
-- Reproduzir a tela de login do Instagram como exercício de front-end
+- Praticar construção de layouts com HTML e Tailwind
 
-- Praticar o uso de Tailwind CSS na criação de componentes visuais
+- Reproduzir uma interface conhecida do mundo real
 
-- Aplicar conceitos de responsividade e alinhamento de elementos
+- Desenvolver noções de responsividade e organização visual
+
+- Consolidar conhecimentos adquiridos durante o curso
 
 ## Resultado
-O projeto representa apenas a parte visual da interface, sem funcionalidades de autenticação ou integração com APIs. É ideal para fins de estudo e demonstração de domínio de estrutura e design.
+O projeto representa apenas a parte visual da interface (UI), ideal para fins de estudo e portfólio.
